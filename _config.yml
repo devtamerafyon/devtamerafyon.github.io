@@ -23,7 +23,7 @@ title: "Tamer Afyon"
 email: "tamerafyon@gmail.com"
 description: ""
 author: "Admin"
-baseurl: "https://devtamerafyon.github.io/blog/" # the subpath of your site, e.g. /blog
+baseurl: "https://devtamerafyon.github.io/" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 date_format: "%d %B %Y"
 
