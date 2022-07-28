@@ -1,2 +1,2 @@
 # devtamerafyon.github.io
-web
+website
