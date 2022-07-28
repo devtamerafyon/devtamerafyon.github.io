@@ -7,13 +7,13 @@
 </style>
 <polygon class="st0" points="0.7,216.6 87.2,216.6 87.2,166.9 44,166.9 "/>
 <rect x="136" y="71.1" class="st0" width="244.2" height="49.7"/>
-<rect x="88.1" y="119" transform="matrix(7.531848e-11 -1 1 7.531848e-11 17.0113 304.7701)" class="st0" width="145.5" height="49.7"/>
+<rect x="136" y="71.2" class="st0" width="49.7" height="145.5"/>
 <rect x="87.2" y="166.9" class="st0" width="225.1" height="49.7"/>
-<rect x="125" y="300" transform="matrix(3.799634e-11 -1 1 3.799634e-11 -66.7338 582.951)" class="st0" width="266.1" height="49.7"/>
-<rect x="222.3" y="205.5" transform="matrix(3.797591e-11 -1 1 3.797591e-11 125.0028 585.6503)" class="st0" width="266.1" height="49.7"/>
+<rect x="233.3" y="191.9" class="st0" width="49.7" height="266.1"/>
+<rect x="330.5" y="97.3" class="st0" width="49.7" height="266.1"/>
 <rect x="355.3" y="166.9" class="st0" width="71" height="49.7"/>
-<rect x="96.7" y="274.3" transform="matrix(7.867935e-11 -1 1 7.867935e-11 -138.265 460.0464)" class="st0" width="128.5" height="49.7"/>
+<rect x="136" y="234.8" class="st0" width="49.7" height="128.5"/>
 <polygon class="st0" points="511.3,216.6 424.8,216.6 424.8,166.9 468,166.9 "/>
-<polygon class="st0" points="185.8,457.9 185.8,363.4 136,363.4 136,410.6 "/>
-<polygon class="st0" points="380.2,457.9 380.2,363.4 330.5,363.4 330.5,410.6 "/>
+<polygon class="st0" points="185.8,456.9 185.8,362.4 136,362.4 136,409.6 "/>
+<polygon class="st0" points="380.2,456.9 380.2,362.4 330.5,362.4 330.5,409.6 "/>
 </svg>
