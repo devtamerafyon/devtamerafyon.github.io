@@ -13,23 +13,21 @@ about:
         </p>
         "
   list:
-    - label: "Name"
-      value: "24"
+    - label: "Ad - Soyad"
+      value: "Tamer Afyon"
 
-    - label: "Age"
-      value: "22 Years"
+    - label: "Yaş"
+      value: "21"
 
     - label: "Job"
       value: "Web Developer"
 
-    - label: "Citizenship"
-      value: "Ukraine"
+    - label: "Şehir"
+      value: "İstanbul"
 
-    - label: "Residence"
-      value: "Kiev"
 
     - label: "E-mail"
-      value: "johndoe@domain.com"
+      value: "tamerafyon@gmail.com"
 
   download:
     text: "Download CV"

@@ -7,7 +7,7 @@
 
 main:
   # Home
-  - title: "Home"
+  - title: "Ana Sayfa"
     url: "/"
     button: 0
     
@@ -27,6 +27,6 @@ main:
     button: 0
   
   # Contacts
-  - title: "Contacts"
+  - title: "İletişim"
     url: "contacts/"
     button: 1
